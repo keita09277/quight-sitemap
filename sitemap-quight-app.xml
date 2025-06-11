@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://quight.app/signup</loc>
+  </url>
+  <url>
+    <loc>https://quight.app/login</loc>
+  </url>
+  <url>
+    <loc>https://quight.app/thread_list</loc>
+  </url>
+  <url>
+    <loc>https://quight.app/record_pdf</loc>
+  </url>
+  <url>
+    <loc>https://quight.app/record_archive</loc>
+  </url>
+</urlset>
